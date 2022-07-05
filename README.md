@@ -4,7 +4,7 @@ Howdy. You're here because you've made a blood oath of allegiance to me. Thanks 
 
 ## Modpack
 
-[Download current modpack](/modpack/Ellisthion%20Fabric%201.19%20v0.2.mrpack)
+[Download current modpack](https://github.com/Ellisthion/minecraft-fabric-1.19/releases/latest)
 
 [View the changelog](/CHANGELOG.md)
 
