@@ -3,13 +3,23 @@
 ## Added Mods
 - Bow Infinity Fix - No longer need an arrow for Infinity
 - Continuity - Support connected texture, eg some Chisel glass
+- Enchantment Descriptions - Enchantment books tell you what they do
 - Enhanced Block Entities - FPS improvements for chests
+- Extended Clouds - Minor graphics enhancement
 - Expanded Delight - Extra crops and food recipes
+- Factory Blocks - Craftable industrial blocks for Chisel
+- Goblin Traders - Like wandering traders, but funkier trades
+- More Totems of Undying - Variant totems with special effects
 - Oh The Biomes You'll Go - More biomes in every dimension
+- On Soul Fire - Blue fire makes you burn blue, and hurts more
 - Paginated Advancements - Better advancements UI
+- Plushie Mod - Miniature mobs as blocks for decoration
 - Ranger's Haven - Extra/enhanced bow and crossbow enchants
+- Repurposed Structures - More variants for vanilla structures
 - Shulker Box Tooltip - Better shulker box tooltips
+- Towns and Towers - More variants for villages and outposts
 - When Dungeons Arise - Exciting and challenging structurest
+- Void Totem - Totem of Undying for falling into the void
 
 ## Swapped Mods
 - Right Click Harvest re-added, Right-Click-Harvest removed
