@@ -37,7 +37,7 @@ Updating is currently a little fiddly.
 
 That's sorta it. You can just use that new instance. But if you want to keep your options:
 
-1. In your original instance, DELETE your `config` and `mods` folders
+1. In your original instance, DELETE your `config`, `mods`, and `kubejs` folders
 2. Copy in those folders from the new instance
 
 # Server Setup
@@ -46,7 +46,7 @@ That's sorta it. You can just use that new instance. But if you want to keep you
 
 1. Set up a Fabric server as per Fabric's instructions
 2. Set up a client instance in PolyMC with the modpack
-3. Copy the `config` and `mods` folders from your client instance to the server directory
+3. Copy the  `config`, `mods`, and `kubejs` folders from your client instance to the server directory
 
 Adjust your java args. The "best" arguments are hotly discussed, but I'd recommend something like:
 

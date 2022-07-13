@@ -1,3 +1,27 @@
+# Version 0.4
+
+## Added Mods
+- Bewitchment - Magic! Start by crafting the Book of Shadows
+- Charm of Undying - Put vanilla totem in Charm slot
+- Comforts - Sleeping bags and hammocks
+- Distant Horizons - LoD for longer view distance
+- Giant Spawn - Illusioner isn't the only forgotten vanilla mob...
+- Girlbossed - Custom death messages
+- Reinforced Barrels - Bigger barrels made with metal
+- Reinforced Chests - Bigger chests made with metal
+- Reinforced Shulker Boxes - Bigger shulker boxes made with metal
+
+## Surprises
+- There are some surprises :)
+
+## Removed Mods
+- Extended Clouds - Incompatible with Distant Horizons
+- Trinkets Curios Theme - Issues overlapping with potion effects
+
+## Config notes
+- KubeJS added - modpack updates now need to copy in the `kubejs` folder in addition to `config` and `mods`
+- Expanded Delight and Bewitchment salt both generate, I've managed to make the recipes mostly interchangeable but in certain situations you may need one or the other. I've added a recipe where you swap between the two versions of salt.
+
 # Version 0.3
 
 ## Added Mods
