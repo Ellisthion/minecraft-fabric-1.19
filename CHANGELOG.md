@@ -1,3 +1,18 @@
+# Version 0.5
+
+## Added Mods
+- Dispenser Cauldrons - Dispenser with bucket works with cauldron
+- Elytra Trinket - Vanilla Elytra in Trinket slot
+- Tax Free Levels - Normalises XP costs, and renaming always costs only 1 level
+- Tiny Skeletons - Because baby zombies weren't bad enough
+
+## Surprises
+- There are more surprises :)
+
+## Config notes
+- Goblin traders fixed, made more frequent, and more trades added
+- Giants now have drops
+
 # Version 0.4
 
 ## Added Mods
