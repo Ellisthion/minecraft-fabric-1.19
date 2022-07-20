@@ -45,8 +45,8 @@ That's sorta it. You can just use that new instance. But if you want to keep you
 ## Fresh Server
 
 1. Set up a Fabric server as per Fabric's instructions
-2. Set up a client instance in PolyMC with the modpack
-3. Copy the  `config`, `mods`, and `kubejs` folders from your client instance to the server directory
+2. Download the server files from the lastest release
+3. Copy the `config`, `mods`, and `kubejs` folders to the server directory
 
 Adjust your java args. The "best" arguments are hotly discussed, but I'd recommend something like:
 
@@ -58,9 +58,9 @@ Launch the server. It should "just work". If it doesn't, complain bitterly on Wh
 
 ## Updating
 
-1. Set up a new client instance
-2. DELETE the server's `config` and `mods` folders
-3. Copy those folders from the new client instance into the server folder
+1. Download the new server files from the latest release
+2. DELETE the server's `config`, `mods`, and `kubejs` folders
+3. Copy those folders from the server files into the server folder
 
 If I've tested the update correctly, it should "just work". If it doesn't, complain bitterly on WhatsApp.
 
