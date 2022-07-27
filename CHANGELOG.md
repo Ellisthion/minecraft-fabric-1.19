@@ -1,3 +1,17 @@
+# Version 0.6
+
+## Added Mods
+- Anvil Crushing Recipes - Change things by crushing them with anvils!
+- Better Wandering Trader - Better trades, for what it's worth
+- The Bumblezone - Bee dimension!
+- Eldritch Mobs - Rare mobs are randomly stronger
+- Frameless - Make an item frame invisible by hitting it with a glass pane
+- Simple Copper Pipes - Item transportation
+- Strider's Grace - Depth Strider for lava
+
+## Surprises
+- There's now a less random way of obtaining certain surprise items
+
 # Version 0.5
 
 ## Added Mods
