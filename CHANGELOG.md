@@ -1,3 +1,8 @@
+# Version 0.6.1
+
+## Removed Mods
+- Eldritch Mobs - Crashes, and permanently filling mob cap
+
 # Version 0.6
 
 ## Added Mods
