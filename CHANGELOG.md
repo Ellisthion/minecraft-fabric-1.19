@@ -1,3 +1,18 @@
+# Version 1.0
+
+## Added Mods
+- Allay Duplication - Give a dancing allay an amethyst shard
+- Applied Energistics - Complex digital storage and crafting automation
+- Cloud Boots - A trinket and boots for reducing falling damage and jumping high
+- Tech Reborn - A lot of automation
+
+## Removed Mods
+- Factory Blocks - Causes client crashes
+
+## Notes
+- The Bumblezone - Try finding a new compass, should be fixed
+- Bewitchment - Silver has been hidden / removed in favour of Tech Reborn's silver
+
 # Version 0.6.1
 
 ## Removed Mods
