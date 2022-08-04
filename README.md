@@ -69,6 +69,6 @@ If I've tested the update correctly, it should "just work". If it doesn't, compl
 If you need to delete parts of the world, use [Amulet](https://www.amuletmc.com/).
 
 #### Safe zones for deleting thing
-- Overworld: `{ x: -1600, z: -200 } to { x: 1100, z: 1200 }`
-- Nether: `{ x: -200, z: 40 } to { x: -70, z: 150 }`
-- End: `{ x: -150, z: -130 } to { x: 400, z: 150 }`
+- Overworld: `{ x: -1600, z: -200 } to { x: 200, z: 1200 }`
+- Nether: `{ x: -200, z: 40 } to { x: -70, z: 200 }`
+- End: `{ x: -1100, z: 800 } to { x: -300, z: 1100 }`
