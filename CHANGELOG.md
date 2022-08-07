@@ -1,3 +1,23 @@
+# Version 1.0.1
+
+## Config
+
+Tech Reborn mid-game power options improved dramatically. Each tier is 4x the previous tier, giving viable options between coal/lava power and nuclear fusion.
+
+### Energy
+
+- Diesel Generator: 20 E/t -> 256 E/t
+- Semifluid Generator: 8 E/t -> 1024 E/t
+- Gas Turbine: 16 E/t -> 1024 E/t
+- Plasma Generator: 400 E/t -> 4096 E/t
+
+Max output per tick for these has been set to 2x their production rate.
+
+### Fuel creation
+
+- Honey can be centrifuged to make Oil
+- Sugar Water can be electolyzed to make Glyceryl
+
 # Version 1.0
 
 ## Added Mods
