@@ -1,3 +1,19 @@
+# Version 1.1
+
+## Added Mods
+- Bosses of Mass Destruction - New boss fights
+- Dragon Loot - The End Dragon drops dragon scales
+- FTB Chunks - Claim and chunkload areas via a GUI
+- FTB Teams - Organise players so claims and chunkloads are share
+- Modern Industrialization - Masochist alternative to Tech Reborn
+- Jump Vader - 'Elevator' block allowing short-range vertical teleportation
+- JourneyMap Integration - Compatibility between FTB Chunks and JourneyMap
+
+## Config
+- Bosses of Mass Destruction are rather difficult to find in worldgen, so you can make Summoning Scrolls to summon them yourself. Note, these are extremely dangerous bosses that should be treated like the Wither, and not summoned anywhere near the base.
+- Added Anvil Crushing recipe for turning Honeycomb Blocks into Honeycomb
+- All chunkloader blocks have been disabled. If you still have one, please throw it into lava.
+
 # Version 1.0.1
 
 ## Config
@@ -25,6 +41,7 @@ Max output per tick for these has been set to 2x their production rate.
 - Applied Energistics - Complex digital storage and crafting automation
 - Cloud Boots - A trinket and boots for reducing falling damage and jumping high
 - Tech Reborn - A lot of automation
+- Quarry Reborn - Automated mining
 
 ## Removed Mods
 - Factory Blocks - Causes client crashes
