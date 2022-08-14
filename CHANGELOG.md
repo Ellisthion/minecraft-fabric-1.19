@@ -1,3 +1,9 @@
+# Version 1.1.1
+
+## Config
+- Blacklisted AE2 with Inventory Sorting, you can now middle click correctly
+- Removed debug output when activating Summoning Scroll
+
 # Version 1.1
 
 ## Added Mods
