@@ -1,3 +1,13 @@
+# Version 1.2
+
+## Added Mods
+- Dispenser Configurator - Dispensers now work tools like axes, athames and knives
+- Industrial Revolution - More automation
+
+## Removed Mods
+- Dispenser Cauldron - Superceded by Dispenser Configurator
+- Inventory Sorting - It keeps interfering with AE2
+
 # Version 1.1.1
 
 ## Config
