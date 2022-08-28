@@ -1,3 +1,11 @@
+# Version 1.3
+
+## Added Mods
+- Kibe - Various utilities, like XP storage and mob transportation
+
+## Config
+- Industrial Revolution ingots, plates, dusts, etc have been replaced with Tech Reborn or Modern Industrialization ones in all recipes
+
 # Version 1.2
 
 ## Added Mods
