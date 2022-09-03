@@ -1,3 +1,12 @@
+# Version 1.4
+
+## Added Mods
+- Milk Plus - Milk as a fluid
+- Spirit - Mob spawning
+
+## Config
+- Fixed IndRev recipes referencing non-existent Tech Reborn dusts
+
 # Version 1.3
 
 ## Added Mods
