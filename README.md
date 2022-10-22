@@ -14,7 +14,7 @@ Howdy. You're here because you've made a blood oath of allegiance to me. Thanks 
 
 ### Set up launcher
 
-1. Get your modded launcher. I recommend [PolyMC](https://polymc.org/).
+1. Get your modded launcher. I recommend [Prism Launcher](https://prismlauncher.org/).
 2. Point it at your Java 17 instance. If you've already installed Minecraft vanilla, it will have installed Java 17... somewhere. The standard launcher puts things in AppData or something. If you run vanilla, Task Manager will show the javaw.exe process for Minecraft, and you can use Open File Location to find it.
 3. Up the min and max ram. I put 6144 MB.
 
@@ -33,7 +33,7 @@ Each instance is treated as totally separate so things like graphics settings an
 
 Updating is currently a little fiddly.
 
-1. In PolyMC, create a new instance, importing the new modpack file
+1. In Prism Launcher, create a new instance, importing the new modpack file
 
 That's sorta it. You can just use that new instance. But if you want to keep your options:
 
